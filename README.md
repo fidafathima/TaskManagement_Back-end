@@ -1,3 +1,4 @@
+# Full-Stack Project: Django API + React Frontend
 ## This is the back-end developed using Django rest framework
  The following instructions will guide you through setting up and running back-end
 
